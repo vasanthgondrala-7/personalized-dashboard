@@ -1,0 +1,13 @@
+{
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/settings": "pages/settings.js",
+  "/": "pages/index.js",
+  "/favorites": "pages/favorites.js",
+  "/api/recommendations": "pages/api/recommendations.js",
+  "/api/stream": "pages/api/stream.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/news": "pages/api/news.js",
+  "/api/social": "pages/api/social.js"
+}
